@@ -11,3 +11,8 @@ Use ghostly powers to teleport and to fly around the map, collecting souls, ghos
 ---
 Created using Unity, art and animation created using Photoshop.
 https://hawtori.itch.io/tengoku
+
+---
+Design patterns in use:
+\
+Singleton, State Pattern, Management system
