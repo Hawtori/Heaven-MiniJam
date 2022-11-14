@@ -8,6 +8,6 @@ Kill enemies, collect their souls for heightened abilities  for your chance back
 
 Use ghostly powers to teleport and to fly around the map, collecting souls, ghostly fragments, and weapons to aid your journey!
 
-
+---
 Created using Unity, art and animation created using Photoshop.
 https://hawtori.itch.io/tengoku
